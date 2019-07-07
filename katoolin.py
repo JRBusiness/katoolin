@@ -138,7 +138,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 						elif opcion1 == "gohome":
 							inicio1()
 						elif opcion1 == "0":
-							cmd = os.system("apt-get -f install acccheck ace-voip amap automater braa casefile cdpsnarf cisco-torch cookie-cadger copy-router-config dmitry dnmap dnsenum dnsmap dnsrecon dnstracer dnswalk dotdotpwn enum4linux enumiax exploitdb fierce firewalk fragroute fragrouter ghost-phisher golismero goofile lbd maltego-teeth masscan metagoofil miranda nmap p0f parsero recon-ng set smtp-user-enum snmpcheck sslcaudit sslsplit sslstrip sslyze thc-ipv6 theharvester tlssled twofi urlcrazy wireshark wol-e xplico ismtp intrace hping3 bbqsql bed cisco-auditing-tool cisco-global-exploiter cisco-ocs cisco-torch copy-router-config doona dotdotpwn greenbone-security-assistant hexorbase jsql lynis nmap ohrwurm openvas-cli openvas-manager openvas-scanner oscanner powerfuzzer sfuzz sidguesser siparmyknife sqlmap sqlninja sqlsus thc-ipv6 tnscmd10g unix-privesc-check yersinia aircrack-ng asleap bluelog blueranger bluesnarfer bully cowpatty crackle eapmd5pass fern-wifi-cracker ghost-phisher giskismet gqrx kalibrate-rtl killerbee kismet mdk3 mfcuk mfoc mfterm multimon-ng pixiewps reaver redfang spooftooph wifi-honey wifitap wifite apache-users arachni bbqsql blindelephant burpsuite cutycapt davtest deblaze dirb dirbuster fimap funkload grabber jboss-autopwn joomscan jsql maltego-teeth padbuster paros parsero plecost powerfuzzer proxystrike recon-ng skipfish sqlmap sqlninja sqlsus ua-tester uniscan webscarab websploit wfuzz wpscan xsser zaproxy burpsuite dnschef fiked hamster-sidejack hexinject iaxflood inviteflood ismtp mitmproxy ohrwurm protos-sip rebind responder rtpbreak rtpinsertsound rtpmixsound sctpscan siparmyknife sipp sipvicious sniffjoke sslsplit sslstrip thc-ipv6 voiphopper webscarab wifi-honey wireshark xspy yersinia zaproxy cryptcat cymothoa dbd dns2tcp httptunnel intersect nishang polenum powersploit pwnat ridenum sbd u3-pwn webshells weevely casefile cutycapt dos2unix dradis keepnote metagoofil nipper-ng pipal armitage backdoor-factory cisco-auditing-tool cisco-global-exploiter cisco-ocs cisco-torch crackle jboss-autopwn linux-exploit-suggester maltego-teeth set shellnoob sqlmap thc-ipv6 yersinia beef-xss binwalk bulk-extractor chntpw cuckoo dc3dd ddrescue dumpzilla extundelete foremost galleta guymager p0f pdf-parser pdfid pdgmail peepdf volatility xplico dhcpig funkload iaxflood inviteflood ipv6-toolkit mdk3 reaver rtpflood slowhttptest t50 termineter thc-ipv6 thc-ssl-dos acccheck burpsuite cewl chntpw cisco-auditing-tool cmospwd creddump crunch findmyhash gpp-decrypt hash-identifier hexorbase john johnny keimpx maltego-teeth maskprocessor multiforcer ncrack oclgausscrack pack patator polenum rainbowcrack rcracki-mt rsmangler statsprocessor thc-pptp-bruter truecrack webscarab wordlists zaproxy apktool dex2jar python-distorm3 edb-debugger jad javasnoop jd ollydbg smali valgrind yara android-sdk apktool arduino dex2jar sakis3g smali && wget http://www.morningstarsecurity.com/downloads/bing-ip2hosts-0.4.tar.gz && tar -xzvf bing-ip2hosts-0.4.tar.gz && cp bing-ip2hosts-0.4/bing-ip2hosts /usr/local/bin/ && apt-get install git && git clone https://github.com/andresriancho/w3af.git && cd w3af && ./w3af_console && . /tmp/w3af_dependency_install.sh && apt-get install openjdk-8-jdk && wget http://www.gremwell.com/sites/default/files/MagicTree-build1814.jar && cp MagicTree-build1814.jar /usr/bin/magictree/ && chmod +x usr/bin/magictree")	
+							cmd = os.system("apt-get -f install acccheck ace-voip amap automater braa casefile cdpsnarf cisco-torch cookie-cadger copy-router-config dmitry dnmap dnsenum dnsmap dnsrecon dnstracer dnswalk dotdotpwn enum4linux enumiax exploitdb fierce firewalk fragroute fragrouter ghost-phisher golismero goofile lbd maltego-teeth masscan metagoofil miranda nmap p0f parsero recon-ng set smtp-user-enum snmpcheck sslcaudit sslsplit sslstrip sslyze thc-ipv6 theharvester tlssled twofi urlcrazy wireshark wol-e xplico ismtp intrace hping3 bbqsql bed cisco-auditing-tool cisco-global-exploiter cisco-ocs cisco-torch copy-router-config doona dotdotpwn greenbone-security-assistant hexorbase jsql lynis nmap ohrwurm openvas-cli openvas-manager openvas-scanner oscanner powerfuzzer sfuzz sidguesser siparmyknife sqlmap sqlninja sqlsus thc-ipv6 tnscmd10g unix-privesc-check yersinia aircrack-ng asleap bluelog blueranger bluesnarfer bully cowpatty crackle eapmd5pass fern-wifi-cracker ghost-phisher giskismet gqrx kalibrate-rtl killerbee kismet mdk3 mfcuk mfoc mfterm multimon-ng pixiewps reaver redfang spooftooph wifi-honey wifitap wifite apache-users arachni bbqsql blindelephant burpsuite cutycapt davtest deblaze dirb dirbuster fimap funkload grabber jboss-autopwn joomscan jsql maltego-teeth padbuster paros parsero plecost powerfuzzer proxystrike recon-ng skipfish sqlmap sqlninja sqlsus ua-tester uniscan webscarab websploit wfuzz wpscan xsser zaproxy burpsuite dnschef fiked hamster-sidejack hexinject iaxflood inviteflood ismtp mitmproxy ohrwurm protos-sip rebind responder rtpbreak rtpinsertsound rtpmixsound sctpscan siparmyknife sipp sipvicious sniffjoke sslsplit sslstrip thc-ipv6 voiphopper webscarab wifi-honey wireshark xspy yersinia zaproxy cryptcat cymothoa dbd dns2tcp httptunnel intersect nishang polenum powersploit pwnat ridenum sbd u3-pwn webshells weevely casefile cutycapt dos2unix dradis keepnote metagoofil nipper-ng pipal armitage backdoor-factory cisco-auditing-tool cisco-global-exploiter cisco-ocs cisco-torch crackle jboss-autopwn linux-exploit-suggester maltego-teeth set shellnoob sqlmap thc-ipv6 yersinia beef-xss binwalk bulk-extractor chntpw cuckoo dc3dd ddrescue dumpzilla extundelete foremost galleta guymager p0f pdf-parser pdfid pdgmail peepdf volatility xplico dhcpig funkload iaxflood inviteflood ipv6-toolkit mdk3 reaver rtpflood slowhttptest t50 termineter thc-ipv6 thc-ssl-dos acccheck burpsuite cewl chntpw cisco-auditing-tool cmospwd creddump crunch findmyhash gpp-decrypt hash-identifier hexorbase john johnny keimpx maltego-teeth maskprocessor multiforcer ncrack oclgausscrack pack patator polenum rainbowcrack rcracki-mt rsmangler statsprocessor thc-pptp-bruter truecrack webscarab wordlists zaproxy apktool dex2jar python-distorm3 edb-debugger jad javasnoop jd ollydbg smali valgrind yara android-sdk apktool arduino dex2jar sakis3g smali && wget http://www.morningstarsecurity.com/downloads/bing-ip2hosts-0.4.tar.gz && tar -xzvf bing-ip2hosts-0.4.tar.gz && cp bing-ip2hosts-0.4/bing-ip2hosts /usr/local/bin/ && git clone https://github.com/andresriancho/w3af.git && cd w3af && ./w3af_console && . /tmp/w3af_dependency_install.sh && apt-get install openjdk-8-jdk && wget http://www.gremwell.com/sites/default/files/MagicTree-build1814.jar && cp MagicTree-build1814.jar /usr/bin/magic_tree/magictree && chmod +x usr/bin/magictree")	
 						while opcion1 == "1":
 							print ('''
 \033[1;36m=+[ Information Gathering\033[1;m
@@ -350,7 +350,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 							elif opcion2 == "7":
 								cmd = os.system("apt-get install copy-router-config")
 							elif opcion2 == "8":
-								cmd = os.system("apt-get install git && git clone https://github.com/stasinopoulos/commix.git commix && cd commix && python ./commix.py --install")
+								cmd = os.system("git clone https://github.com/stasinopoulos/commix.git commix && cd commix && python ./commix.py --install")
 							elif opcion2 == "9":
 								cmd = os.system("echo 'download page : http://www.cqure.net/wp/tools/database/dbpwaudit/'")
 							elif opcion2 == "10":
@@ -360,7 +360,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 							elif opcion2 == "12":
 								cmd = os.system("apt-get install greenbone-security-assistant")
 							elif opcion2 == "13":
-								cmd = os.system("apt-get install git && git clone git://git.kali.org/packages/gsd.git")
+								cmd = os.system("git clone git://git.kali.org/packages/gsd.git")
 							elif opcion2 == "14":
 								cmd = os.system("apt-get install hexorbase")
 							elif opcion2 == "15":
@@ -448,9 +448,9 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 							elif opcion2 == "3":
 								cmd = os.system("apt-get install bluelog")
 							elif opcion2 == "4":
-								cmd = os.system("apt-get install git && git clone git://git.kali.org/packages/bluemaho.git")
+								cmd = os.system("git clone git://git.kali.org/packages/bluemaho.git")
 							elif opcion2 == "5":
-								cmd = os.system("apt-get install git && git clone git://git.kali.org/packages/bluepot.git")
+								cmd = os.system("git clone git://git.kali.org/packages/bluepot.git")
 							elif opcion2 == "6":
 								cmd = os.system("apt-get install blueranger")
 							elif opcion2 == "7":
@@ -470,7 +470,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 							elif opcion2 == "14":
 								cmd = os.system("apt-get install giskismet")
 							elif opcion2 == "16":
-								cmd = os.system("apt-get install git && git clone git://git.kali.org/packages/gr-scan.git")
+								cmd = os.system("git clone git://git.kali.org/packages/gr-scan.git")
 							elif opcion2 == "17":
 								cmd = os.system("apt-get install kalibrate-rtl")
 							elif opcion2 == "18":
@@ -559,7 +559,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 							elif opcion2 == "6":
 								cmd = os.system("apt-get install cutycapt")
 							elif opcion2 == "7":
-								cmd = os.system("apt-get install git && git clone https://github.com/stasinopoulos/commix.git commix && cd commix && python ./commix.py --install")
+								cmd = os.system("git clone https://github.com/stasinopoulos/commix.git commix && cd commix && python ./commix.py --install")
 							elif opcion2 == "8":
 								cmd = os.system("apt-get install davtest")
 							elif opcion2 == "9":
@@ -609,13 +609,13 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 							elif opcion2 == "31":
 								cmd = os.system("apt-get install uniscan")
 							elif opcion2 == "32":
-								cmd = os.system("apt-get install git && git clone https://github.com/andresriancho/w3af.git && cd w3af && ./w3af_console && . /tmp/w3af_dependency_install.sh")
+								cmd = os.system("git clone https://github.com/andresriancho/w3af.git && cd w3af && ./w3af_console && . /tmp/w3af_dependency_install.sh")
 							elif opcion2 == "33":
 								cmd = os.system("apt-get install webscarab")
 							elif opcion2 == "34":
 								print ("Webshag is unavailable")
 							elif opcion2 == "35":
-								cmd = os.system("apt-get install git && git clone git://git.kali.org/packages/webslayer.git")
+								cmd = os.system("git clone git://git.kali.org/packages/webslayer.git")
 							elif opcion2 == "36":
 								cmd = os.system("apt-get install websploit")
 							elif opcion2 == "37":
@@ -679,7 +679,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 							elif opcion2 == "8":
 								cmd = os.system("apt-get install ismtp")
 							elif opcion2 == "9":
-								cmd = os.system("apt-get install git && git clone git://git.kali.org/packages/isr-evilgrade.git")
+								cmd = os.system("git clone git://git.kali.org/packages/isr-evilgrade.git")
 							elif opcion2 == "10":
 								cmd = os.system("apt-get install mitmproxy")
 							elif opcion2 == "11":
@@ -894,7 +894,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 							elif opcion2 == "7":
 								cmd = os.system("apt-get install cisco-torch")
 							elif opcion2 == "8":
-								cmd = os.system("apt-get install git && git clone https://github.com/stasinopoulos/commix.git commix && cd commix && python ./commix.py --install")
+								cmd = os.system("git clone https://github.com/stasinopoulos/commix.git commix && cd commix && python ./commix.py --install")
 							elif opcion2 == "9":
 								cmd = os.system("apt-get install crackle")
 							elif opcion2 == "10":
@@ -952,7 +952,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 								cmd = os.system("apt-get install bulk-extractor")
 
 							elif opcion2 == "3":
-								cmd = os.system("apt-get install git && git clone git://git.kali.org/packages/capstone.git")
+								cmd = os.system("git clone git://git.kali.org/packages/capstone.git")
 							elif opcion2 == "4":
 								cmd = os.system("apt-get install chntpw")
 							elif opcion2 == "5":
@@ -964,7 +964,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 							elif opcion2 == "8":
 								print ('dff is unavailable')
 							elif opcion2 == "9":
-								cmd = os.system("apt-get install git && git clone git://git.kali.org/packages/distorm3.git")
+								cmd = os.system("git clone git://git.kali.org/packages/distorm3.git")
 							elif opcion2 == "10":
 								cmd = os.system("apt-get install dumpzilla")
 							elif opcion2 == "11":
@@ -1032,7 +1032,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 							elif opcion2 == "3":
 								cmd = os.system("apt-get install iaxflood")
 							elif opcion2 == "4":
-								cmd = os.system("apt-get install git && git clone git://git.kali.org/packages/inundator.git")
+								cmd = os.system("git clone git://git.kali.org/packages/inundator.git")
 							elif opcion2 == "5":
 								cmd = os.system("apt-get install inviteflood")
 							elif opcion2 == "6":
@@ -1108,7 +1108,7 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 							elif opcion2 == "8":
 								cmd = os.system("apt-get install crunch")
 							elif opcion2 == "9":
-								cmd = os.system("apt-get install git && git clone git://git.kali.org/packages/dbpwaudit.git")
+								cmd = os.system("git clone git://git.kali.org/packages/dbpwaudit.git")
 							elif opcion2 == "10":
 								cmd = os.system("apt-get install findmyhash")
 							elif opcion2 == "11":
