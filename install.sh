@@ -1,6 +1,6 @@
 #!/bin/sh
 apt-get update
-apt-get upgrade
+apt-get upgrade -y
 apt-get install -y git
 apt-get install -y python
 git clone https://github.com/JRBusiness/katoolin.git
