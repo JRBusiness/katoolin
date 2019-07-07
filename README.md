@@ -12,10 +12,9 @@ Automatically install all Kali linux tools
 - An operating system (tested on Ubuntu)
 
 # Installation
-- sudo su
-- git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
-- chmod +x /usr/bin/katoolin
-- sudo katoolin 
+- wget https://github.com/JRBusiness/katoolin/blob/master/install.sh && cp install.sh /usr/bin/auto_katoolin/autokatoolin
+- chmod +x /usr/bin/auto_katoolin
+- autokatoolin
 
 # Video
 https://www.youtube.com/watch?v=8VxCWVoZEEE
